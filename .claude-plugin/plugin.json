@@ -1,0 +1,9 @@
+{
+  "name": "video-os",
+  "version": "0.1.0",
+  "description": "AI movie production toolkit for generating consistent Veo and Sora video prompts, managing characters, sets, and scenes",
+  "author": {
+    "name": "Benjamin Sales"
+  },
+  "keywords": ["video", "ai", "veo", "sora", "movie", "prompts", "storyboard"]
+}

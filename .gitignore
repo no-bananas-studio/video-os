@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Claude Code local settings
+.claude/
+
+# Movie project data (user-generated content)
+.video-os/
+
+# Node modules (if adding npm later)
+node_modules/

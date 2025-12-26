@@ -1,0 +1,22 @@
+{
+  "name": "video-os-marketplace",
+  "owner": {
+    "name": "Benjamin Sales"
+  },
+  "metadata": {
+    "description": "AI video production tools for Veo and Sora"
+  },
+  "plugins": [
+    {
+      "name": "video-os",
+      "source": "./",
+      "description": "AI movie production toolkit for generating consistent Veo and Sora video prompts, managing characters, sets, and scenes",
+      "version": "0.1.0",
+      "author": {
+        "name": "Benjamin Sales"
+      },
+      "keywords": ["video", "ai", "veo", "sora", "movie", "prompts", "storyboard"],
+      "category": "creative"
+    }
+  ]
+}
