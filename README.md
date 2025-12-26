@@ -51,8 +51,24 @@ your-movie/
 
 ## Installation
 
+### From Marketplace (Recommended)
+
+```bash
+# Add the marketplace
+/plugin marketplace add no-bananas-studio/video-os
+
+# Install the plugin
+/plugin install video-os
+```
+
+### From GitHub Direct
+
+```bash
+/plugin install github:no-bananas-studio/video-os
+```
+
+### Local Development
+
 ```bash
 claude --plugin-dir /path/to/video-os
 ```
-
-Or add to your Claude Code plugins directory.
